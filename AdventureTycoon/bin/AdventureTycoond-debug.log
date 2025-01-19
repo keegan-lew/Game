@@ -1,0 +1,1614 @@
+[16:56:55] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[16:56:55] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[16:56:55] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[16:56:55] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:03:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:03:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:03:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:03:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:03:23] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named Splash.
+[17:03:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:03:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:03:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:03:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:03:51] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named Splash.
+[17:28:57] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:28:57] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:28:57] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:28:57] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:28:57] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named playerObject.
+[17:31:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:31:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:31:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:31:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:31:29] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named playerObject.
+[17:32:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:32:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:32:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:32:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:32:03] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:33:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:33:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:33:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:33:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:33:29] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:40:02] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:40:02] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:40:02] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:40:02] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:40:02] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:41:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:41:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:41:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:41:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:41:30] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:43:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:43:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:43:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:43:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:43:22] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:50:25] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:50:25] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:50:25] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:50:25] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:50:26] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:26] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:27] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:28] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:29] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:30] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:31] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:50:32] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:51:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:51:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:51:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:51:33] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:33] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:34] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:35] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:35] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:51:35] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:52:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:52:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:52:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:52:22] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:22] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:52:23] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[17:53:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:53:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:53:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:53:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:53:51] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:51] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:52] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:53:53] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:54:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:54:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:54:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:54:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:54:19] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:55:00] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[17:55:00] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[17:55:00] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[17:55:00] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[17:55:01] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[17:55:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2243)] Camera size out of bounds: 0, 0.
+[18:27:17] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:27:17] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:27:17] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:27:17] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:27:18] [ANIM] [orxAnimPointer.c:orxAnimPointer_CreateFromConfig(694)] "HeroAnimationSet" does not exist in config.
+[18:29:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:29:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:29:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:29:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:35:01] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:35:01] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:35:01] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:35:01] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:35:01] [RENDER] [orxCamera.c:orxCamera_CreateFromConfig(1145)] Cannot find config section named (MainCamera).
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:01] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:02] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:03] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:04] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:05] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:06] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:07] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:08] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:09] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:09] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:09] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:09] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:09] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:35:09] [RENDER] [orxRender.c:orxRender_Home_RenderViewport(2252)] No valid camera or no shader attached to viewport.
+[18:36:44] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:36:44] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:36:44] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:36:44] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:38:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:38:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:38:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:38:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:38:50] [ASSERT] [orxDisplay.c:orxDisplay_GLFW_SetShaderBitmap(7039)] FAILED ASSERTION [(_pstValue != sstDisplay.pstScreen) && "Can't use screen bitmap as texture parameter (ID <1>) for fragment shader."]
+[18:39:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:39:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:39:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:39:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:39:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:39:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:39:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:39:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:45:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:45:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:45:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:45:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:51:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:51:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:51:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:51:18] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:51:18] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(300)] Adding collision flag <platforms> with value <1>.
+[18:52:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:52:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:52:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:52:22] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:52:22] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(300)] Adding collision flag <platforms> with value <1>.
+[18:52:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:52:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:52:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:52:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:52:50] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(300)] Adding collision flag <platforms> with value <1>.
+[18:55:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[18:55:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[18:55:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[18:55:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[18:55:27] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(300)] Adding collision flag <platforms> with value <1>.
+[19:02:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:02:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:02:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:02:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:04:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:04:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:04:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:04:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:05:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:05:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:05:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:05:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:05:09] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:05:09] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:06:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:06:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:06:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:06:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:07:26] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:07:26] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:07:26] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:07:26] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:09:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:09:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:09:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:09:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:09:08] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [data/texture/background.png] and link it to texture.
+[19:09:08] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:10:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:10:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:10:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:10:15] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:10:15] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [data/texture/background.png] and link it to texture.
+[19:10:15] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:11:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:11:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:11:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:11:30] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:11:31] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:11:31] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:11:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:11:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:11:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:11:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:11:39] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:11:39] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:12:36] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:12:36] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:12:36] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:12:36] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:12:36] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:12:36] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:13:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:13:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:13:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:13:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:13:14] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named Scene.
+[19:13:37] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:13:37] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:13:37] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:13:37] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:13:37] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named Scene.
+[19:13:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:13:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:13:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:13:51] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:13:51] [OBJECT] [orxObject.c:orxObject_CreateFromConfig(7275)] Failed to find config section named Scene.
+[19:14:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:14:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:14:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:14:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:14:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:14:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:14:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:14:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:15:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:15:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:15:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:15:08] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:15:46] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:15:46] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:15:46] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:15:46] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:16:23] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:16:23] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:16:23] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:16:23] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:16:24] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:16:24] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:18:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:18:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:18:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:18:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:18:14] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [data/texture/background.png] and link it to texture.
+[19:18:14] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:18:53] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:18:53] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:18:53] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:18:53] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:18:54] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:18:54] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:19:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:19:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:19:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:19:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:25:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:25:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:25:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:25:19] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:26:43] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:26:43] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:26:43] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:26:43] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:26:43] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:26:43] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:27:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:27:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:27:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:27:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:27:56] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:27:56] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:28:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:28:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:28:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:28:21] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:28:22] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:29:42] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:29:42] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:29:42] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:29:42] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:30:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:30:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:30:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:30:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:30:28] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:30:28] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:30:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:30:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:30:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:30:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:31:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:31:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:31:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:31:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:31:33] [DISPLAY] [orxTexture.c:orxTexture_Load(910)] Failed to load bitmap [Your background image] and link it to texture.
+[19:31:33] [DISPLAY] [orxGraphic.c:orxGraphic_CreateFromConfig(999)] Couldn't get text or texture for graphic <BackgroundImage>.
+[19:32:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:32:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:32:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:32:50] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:33:45] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:33:45] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:33:45] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:33:45] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:34:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:34:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:34:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:34:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:35:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:35:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:35:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:35:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:35:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:35:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:35:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:35:27] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:35:41] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:35:41] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:35:41] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:35:41] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:36:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:36:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:36:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:36:03] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:36:38] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:36:38] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:36:38] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:36:38] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:41:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:41:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:41:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:41:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:42:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:42:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:42:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:42:09] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:43:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:43:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:43:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:43:32] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:43:59] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:43:59] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:43:59] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:43:59] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:44:20] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:44:20] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:44:20] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:44:20] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:44:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:44:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:44:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:44:40] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:44:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:44:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:44:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:44:56] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:47:10] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:47:10] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:47:10] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:47:10] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:47:33] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:47:33] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:47:33] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:47:33] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:47:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:47:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:47:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:47:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:48:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:48:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:48:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:48:14] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
+[19:48:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3269)] [AdventureTycoond.ini]: Begin include @AdventureTycoon.ini@
+[19:48:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3275)] [AdventureTycoond.ini]: End include @AdventureTycoon.ini@
+[19:48:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3122)] [AdventureTycoond.ini]: <Display.Title> = AdventureTycoon -> AdventureTycoon (Debug)
+[19:48:28] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(3116)] [AdventureTycoond.ini]: <Bundle.ExcludeList> += AdventureTycoond.ini
